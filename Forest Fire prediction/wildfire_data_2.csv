@@ -1,0 +1,73 @@
+month,region,latitude,longitude,temperature,wildfire_label
+January,California,36.7783,-119.4179,15.3,0
+February,Texas,31.9686,-99.9018,18.6,1
+March,Florida,27.7663,-81.6868,20.2,0
+April,Colorado,39.5501,-105.7821,22.8,1
+May,Arizona,34.0489,-111.0937,24.5,1
+June,Oregon,43.8041,-120.5542,26.1,1
+July,Washington,47.7511,-120.7401,28.4,1
+August,New York,40.7128,-74.0060,30.2,0
+September,Alaska,64.2008,-149.4937,28.1,1
+October,Hawaii,21.3069,-157.8583,26.9,0
+November,Illinois,40.6331,-89.3985,18.5,0
+December,Georgia,32.1656,-82.9001,16.8,0
+January,Ohio,40.4173,-82.9071,13.7,0
+February,North Carolina,35.7596,-79.0193,17.2,0
+March,Minnesota,46.7296,-94.6859,21.3,1
+April,Michigan,44.3148,-85.6024,23.9,1
+May,Montana,46.8797,-110.3639,25.4,1
+June,New Mexico,34.5199,-105.8701,27.1,1
+July,Louisiana,30.9843,-91.9623,29.8,1
+August,Oklahoma,35.0078,-97.0929,30.5,1
+September,Pennsylvania,41.2033,-77.1945,27.9,0
+October,Tennessee,35.5175,-86.5804,23.7,0
+November,Virginia,37.4316,-78.6569,19.6,0
+December,Kentucky,37.8393,-84.2700,16.4,0
+January,Indiana,39.7684,-86.1581,14.1,0
+February,New Jersey,40.0583,-74.4057,17.8,0
+March,Missouri,38.9517,-92.3341,21.6,1
+April,Georgia,32.1656,-82.9001,23.2,1
+May,Iowa,41.8780,-93.0977,24.9,1
+June,Kansas,39.0119,-98.4842,26.6,1
+July,Idaho,44.0682,-114.7420,29.4,1
+August,Connecticut,41.6032,-73.0877,31.1,0
+September,Massachusetts,42.4072,-71.3824,29.9,0
+October,New Hampshire,43.1939,-71.5724,25.7,0
+November,Maryland,39.0458,-76.6413,20.5,0
+December,Wisconsin,43.7844,-88.7879,17.3,0
+January,Arizona,34.0489,-111.0937,14.0,0
+February,Texas,31.9686,-99.9018,17.7,0
+March,Colorado,39.5501,-105.7821,21.4,1
+April,California,36.7783,-119.4179,24.0,1
+May,Florida,27.7663,-81.6868,25.7,1
+June,Washington,47.7511,-120.7401,27.4,1
+July,New York,40.7128,-74.0060,29.2,1
+August,Alaska,64.2008,-149.4937,30.9,1
+September,Hawaii,21.3069,-157.8583,28.7,1
+October,Illinois,40.6331,-89.3985,23.5,0
+November,Georgia,32.1656,-82.9001,19.4,0
+December,Ohio,40.4173,-82.9071,16.2,0
+January,North Carolina,35.7596,-79.0193,13.1,0
+February,Minnesota,46.7296,-94.6859,16.8,0
+March,Michigan,44.3148,-85.6024,20.5,1
+April,Montana,46.8797,-110.3639,23.1,1
+May,New Mexico,34.5199,-105.8701,24.8,1
+June,Louisiana,30.9843,-91.9623,26.5,1
+July,Oklahoma,35.0078,-97.0929,29.2,1
+August,Pennsylvania,41.2033,-77.1945,26.9,0
+September,Tennessee,35.5175,-86.5804,22.7,0
+October,Virginia,37.4316,-78.6569,18.6,0
+November,Kentucky,37.8393,-84.2700,15.4,0
+December,Indiana,39.7684,-86.1581,12.1,0
+January,New Jersey,40.0583,-74.4057,15.8,0
+February,Missouri,38.9517,-92.3341,19.5,0
+March,Georgia,32.1656,-82.9001,23.3,1
+April,Iowa,41.8780,-93.0977,24.9,1
+May,Kansas,39.0119,-98.4842,26.6,1
+June,Idaho,44.0682,-114.7420,29.4,1
+July,Connecticut,41.6032,-73.0877,31.1,0
+August,Massachusetts,42.4072,-71.3824,29.9,0
+September,New Hampshire,43.1939,-71.5724,25.7,0
+October,Maryland,39.0458,-76.6413,20.5,0
+November,Wisconsin,43.7844,-88.7879,17.3,0
+December,Arizona,34.0489,-111.0937,14.0,0

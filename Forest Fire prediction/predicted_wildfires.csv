@@ -1,0 +1,36 @@
+Region,Prediction,latitude,longitude
+California,0,36.7783,-119.4179
+Texas,0,31.9686,-99.9018
+Florida,1,27.7663,-81.6868
+Colorado,1,39.5501,-105.7821
+Arizona,1,34.0489,-111.0937
+Oregon,0,43.8041,-120.5542
+Washington,0,47.7511,-120.7401
+New York,0,40.7128,-74.006
+Alaska,1,64.2008,-149.4937
+Hawaii,0,21.3069,-157.8583
+Illinois,0,40.6331,-89.3985
+Georgia,0,32.1656,-82.9001
+Ohio,0,40.4173,-82.9071
+North Carolina,1,35.7596,-79.0193
+Minnesota,0,46.7296,-94.6859
+Michigan,0,44.3148,-85.6024
+Montana,1,46.8797,-110.3639
+New Mexico,1,34.5199,-105.8701
+Louisiana,0,30.9843,-91.9623
+Oklahoma,0,35.0078,-97.0929
+Pennsylvania,0,41.2033,-77.1945
+Tennessee,0,35.5175,-86.5804
+Virginia,0,37.4316,-78.6569
+Kentucky,0,37.8393,-84.27
+Indiana,0,39.7684,-86.1581
+New Jersey,0,40.0583,-74.4057
+Missouri,0,38.9517,-92.3341
+Iowa,0,41.878,-93.0977
+Kansas,0,39.0119,-98.4842
+Idaho,0,44.0682,-114.742
+Connecticut,0,41.6032,-73.0877
+Massachusetts,0,42.4072,-71.3824
+New Hampshire,0,43.1939,-71.5724
+Maryland,0,39.0458,-76.6413
+Wisconsin,0,43.7844,-88.7879
